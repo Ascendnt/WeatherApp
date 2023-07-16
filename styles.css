@@ -1,0 +1,30 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #BFEAF5;
+}
+
+.container {
+    margin-top: 10%;
+    text-align: center;
+}
+
+.search-bar input {
+    border: 0;
+    outline: 0;
+    background: #ebfffc;
+    color: 555;
+    padding: 1px 25px;
+    height: 60px;
+    border-radius: 30px;
+    flex: 1;
+    margin-right: 10px;
+    font-size: 18px;
+
+}
+
+footer {
+    margin-top: auto;
+    text-align: center;
+}
